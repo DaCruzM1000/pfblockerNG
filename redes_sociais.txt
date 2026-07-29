@@ -21,3 +21,127 @@ linkedin.com
 snapchat.com
 
 pinterest.com
+| Plataforma          | Domínio             |
+| ------------------- | ------------------- |
+| Facebook            | facebook.com        |
+| Instagram           | instagram.com       |
+| Threads             | threads.net         |
+| X (Twitter)         | x.com               |
+| Bluesky             | bsky.app            |
+| Mastodon            | mastodon.social     |
+| TikTok              | tiktok.com          |
+| YouTube             | youtube.com         |
+| Reddit              | reddit.com          |
+| Pinterest           | pinterest.com       |
+| LinkedIn            | linkedin.com        |
+| Snapchat            | snapchat.com        |
+| Discord             | discord.com         |
+| Telegram            | telegram.org        |
+| WhatsApp            | whatsapp.com        |
+| Messenger           | messenger.com       |
+| Signal              | signal.org          |
+| WeChat              | wechat.com          |
+| QQ                  | qq.com              |
+| LINE                | line.me             |
+| KakaoTalk           | kakaocorp.com       |
+| Viber               | viber.com           |
+| Skype               | skype.com           |
+| Tumblr              | tumblr.com          |
+| Medium              | medium.com          |
+| Quora               | quora.com           |
+| VK                  | vk.com              |
+| OK                  | ok.ru               |
+| Gab                 | gab.com             |
+| Minds               | minds.com           |
+| MeWe                | mewe.com            |
+| Nextdoor            | nextdoor.com        |
+| Meetup              | meetup.com          |
+| Flickr              | flickr.com          |
+| DeviantArt          | deviantart.com      |
+| Behance             | behance.net         |
+| Dribbble            | dribbble.com        |
+| Twitch              | twitch.tv           |
+| Kick                | kick.com            |
+| DLive               | dlive.tv            |
+| Rumble              | rumble.com          |
+| Vimeo               | vimeo.com           |
+| Bilibili            | bilibili.com        |
+| NicoNico            | nicovideo.jp        |
+| Lemon8              | lemon8-app.com      |
+| Clubhouse           | clubhouse.com       |
+| Hive Social         | hive.social         |
+| Truth Social        | truthsocial.com     |
+| Parler              | parler.com          |
+| Substack            | substack.com        |
+| Patreon             | patreon.com         |
+| OnlyFans            | onlyfans.com        |
+| Fansly              | fansly.com          |
+| Pixelfed            | pixelfed.org        |
+| PeerTube            | joinpeertube.org    |
+| Diaspora            | diaspora.foundation |
+| Friendica           | friendi.ca          |
+| Nostr               | nostr.com           |
+| Matrix              | matrix.org          |
+| Element             | element.io          |
+| Slack               | slack.com           |
+| Microsoft Teams     | microsoft.com       |
+| Guilded             | guilded.gg          |
+| Steam Community     | steamcommunity.com  |
+| Xbox Community      | xbox.com            |
+| PlayStation Network | playstation.com     |
+| Amino               | aminoapps.com       |
+| Weibo               | weibo.com           |
+| Douyin              | douyin.com          |
+| Xiaohongshu (RED)   | xiaohongshu.com     |
+| Baidu Tieba         | tieba.baidu.com     |
+| Plurk               | plurk.com           |
+| Ello                | ello.co             |
+| Cohost              | cohost.org          |
+| Letterboxd          | letterboxd.com      |
+| SoundCloud          | soundcloud.com      |
+| BandLab             | bandlab.com         |
+| Bandcamp            | bandcamp.com        |
+| ReverbNation        | reverbnation.com    |
+| Last.fm             | last.fm             |
+| Goodreads           | goodreads.com       |
+| Foursquare          | foursquare.com      |
+| Swarm               | swarmapp.com        |
+| Strava              | strava.com          |
+| Komoot              | komoot.com          |
+| Untappd             | untappd.com         |
+| ResearchGate        | researchgate.net    |
+| Academia            | academia.edu        |
+x.com
+twitter.com
+t.co
+instagram.com
+cdninstagram.com
+fb.com
+facebook.com
+fb.me
+messenger.com
+whatsapp.com
+wa.me
+youtube.com
+youtu.be
+linkedin.com
+lnkd.in
+tiktok.com
+vm.tiktok.com
+vt.tiktok.com
+reddit.com
+redd.it
+discord.com
+discord.gg
+discordapp.com
+telegram.org
+t.me
+telegram.me
+snapchat.com
+snap.com
+pinterest.com
+pin.it
+threads.net
+bluesky.app
+bsky.social
+mastodon.social
