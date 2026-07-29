@@ -145,3 +145,4 @@ threads.net
 bluesky.app
 bsky.social
 mastodon.social
+discord.com
