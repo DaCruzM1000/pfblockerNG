@@ -120,7 +120,6 @@ fb.com
 facebook.com
 fb.me
 messenger.com
-whatsapp.com
 wa.me
 youtube.com
 youtu.be
