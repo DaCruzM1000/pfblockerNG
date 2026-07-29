@@ -37,7 +37,6 @@ pinterest.com
 | Snapchat            | snapchat.com        |
 | Discord             | discord.com         |
 | Telegram            | telegram.org        |
-| WhatsApp            | whatsapp.com        |
 | Messenger           | messenger.com       |
 | Signal              | signal.org          |
 | WeChat              | wechat.com          |
