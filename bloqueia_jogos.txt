@@ -67,3 +67,4 @@ poki.cr	Domínio regional
 poki.co.id	Domínio regional
 poki.co.il	Domínio regional
 poki.co.ve	Domínio regional
+poki.com/br/g/subway-surfers
