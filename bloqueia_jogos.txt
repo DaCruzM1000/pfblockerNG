@@ -13,3 +13,14 @@ poki.com
 jogosgratis.com
 jogos.com
 jogosonlinegratis.com
+www.poki.com	Site principal
+about.poki.com	Informações da empresa
+developers.poki.com	Portal para desenvolvedores
+jobs.poki.com	Carreiras (quando ativo)
+careers.poki.com	Carreiras (quando ativo)
+blog.poki.com	Blog (quando ativo)
+cdn.poki.com	CDN/arquivos estáticos (quando utilizado)
+static.poki.com	Recursos estáticos
+assets.poki.com	Imagens e arquivos
+api.poki.com	APIs
+m.poki.com
