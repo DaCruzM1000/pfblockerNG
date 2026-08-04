@@ -19,45 +19,5 @@ hydralauncher.com
 www.poki.com
 poki.com/en
 poki.com/br
-poki.com/es
-poki.com/fr
-poki.com/de
-poki.com/pt
-poki.com/it
-poki.com/nl
-poki.com/tr
-poki.com/ru
-poki.com/zh
-poki.com/ja
-poki.com/ko
 https://poki.com/en (Inglês)
 https://poki.com/br (Português – Brasil)
-https://poki.com/pt (Português)
-https://poki.com/es (Espanhol)
-https://poki.com/fr (Francês)
-https://poki.com/de (Alemão)
-https://poki.com/it (Italiano)
-https://poki.com/nl (Holandês)
-https://poki.com/tr (Turco)
-https://poki.com/ru (Russo)
-https://poki.com/pl (Polonês)
-https://poki.com/sv (Sueco)
-https://poki.com/no (Norueguês)
-https://poki.com/da (Dinamarquês)
-https://poki.com/fi (Finlandês)
-https://poki.com/cs (Tcheco)
-https://poki.com/hu (Húngaro)
-https://poki.com/ro (Romeno)
-https://poki.com/el (Grego)
-https://poki.com/uk (Ucraniano)
-https://poki.com/id (Indonésio)
-https://poki.com/ms (Malaio)
-https://poki.com/th (Tailandês)
-https://poki.com/vi (Vietnamita)
-https://poki.com/hi (Hindi)
-https://poki.com/bn (Bengali)
-https://poki.com/ar (Árabe)
-https://poki.com/he (Hebraico)
-https://poki.com/ja (Japonês)
-https://poki.com/ko (Coreano)
-https://poki.com/zh (Chinês Simplificado)
