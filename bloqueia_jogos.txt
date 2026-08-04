@@ -19,5 +19,5 @@ hydralauncher.com
 www.poki.com
 poki.com/en
 poki.com/br
-https://poki.com/en (Inglês)
-https://poki.com/br (Português – Brasil)
+https://poki.com/en
+https://poki.com/br
