@@ -7,3 +7,13 @@ globoplay.com
 twitch.tv
 spotify.com
 youtube.com
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+youtube-nocookie.com
+www.youtube-nocookie.com
+googlevideo.com
+*.googlevideo.com
+ytimg.com
+*.ytimg.com
