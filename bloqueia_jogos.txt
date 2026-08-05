@@ -35,3 +35,4 @@ hydra.app
 hydra.info
 hydra.biz
 hydra.us
+hydralauncher.gg/
