@@ -6,3 +6,4 @@ max.com
 globoplay.com
 twitch.tv
 spotify.com
+youtube.com
